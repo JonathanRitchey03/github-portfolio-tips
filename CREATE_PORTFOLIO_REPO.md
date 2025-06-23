@@ -6,7 +6,7 @@
 
 ### _2. Fill out appropriate details for the new repo._
 
-![](images/portfolio-project.png)
+![](images/portfolio-project-settings.png)
 
 Make sure to include a description, select `Add a README file`, select the language for the `.gitignore` file, and the license type.
 
