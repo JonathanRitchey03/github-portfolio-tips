@@ -2,13 +2,13 @@
 
 ### _1. Click on the `Sign up` button at [github.com](https://github.com)._
 
-![](signup-button.png)
+![](images/signup-button.png)
 
 ### _2. Complete the sign up form._
 
-![](signup-page.png)
+![](images/signup-page.png)
 
 ### _3. Sign in._
 
-![](signin.png)
+![](images/signin.png)
 

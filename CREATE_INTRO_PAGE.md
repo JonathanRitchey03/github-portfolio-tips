@@ -2,17 +2,17 @@
 
 ### _1. Click `+` button on the upper right to create a new repository._
 
-![](new-repository.png)
+![](images/new-repository.png)
 
 ### _2. For the repository name, use the exact name under `Owner`._
 
-![](use-same-name.png)
+![](images/use-same-name.png)
 
 Notice the comment about it being a special repository!
 
 ### _4. Use the green button add a README.md._
 
-![](add-readme.png)
+![](images/add-readme.png)
 
 ### _5. Customize the README.md_
 
