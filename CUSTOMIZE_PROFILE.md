@@ -8,7 +8,7 @@ _From the drop menu, select `Your profile`._
 
 ![](select-profile.png)
 
-_Click on `Edit profile`.
+_Click on `Edit profile`._
 
 ![](edit-profile.png)
 

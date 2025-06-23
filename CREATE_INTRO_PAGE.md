@@ -1,63 +1,37 @@
 ## Create Intro Page
 
-### _1. Click `+` button on the upper right_
+### _1. Click `+` button on the upper right to create a new repository._
 
+![](new-repository.png)
 
+### _2. For the repository name, use the exact name under `Owner`._
 
-_From the drop menu, select `Your profile`._
+![](use-same-name.png)
 
-![](select-profile.png)
+Notice the comment about it being a special repository!
 
-_Click on `Edit profile`.
+### _4. Use the green button add a README.md._
 
-![](edit-profile.png)
+![](add-readme.png)
 
-### _2. Fill out profile. Make sure to include LinkedIn URL._
+### _5. Customize the README.md_
 
-![](complete-profile.png)
-
-### _3. Add a profile picture by clicking on circle avatar._
-
-![](edit-avatar.png)
-
-### _4. Complete README.md_
-
-Template:
+_Template (I used ChatGPT to create a sample template):_
 
 ```
-# 👋 Hi there, I'm Jonathan Ritchey!
+### 👋 Hi there, I'm Jonathan Ritchey!
 
-## 🚀 About Me
+#### 🚀 About Me
 
 I'm a **software engineer** with a passion for building beautiful, intuitive, and impactful applications. I specialize in:
 
-- 🎨 Frontend: iOS User Interaces using UIKit and SwiftUI
-- ⚙️ Automation: UI and Unit Testing
-- ☁️ DevOps: CI/CD
+- 🎨 Frontend: iOS User Interaces using UIKit and SwiftUI.
+- ⚙️ Automation: UI and Unit Testing, CI/CD.
 
----
+#### 💼 Projects:
 
-## 💼 What I’m Working On
-
-- 🔧 Educational Games.
-- 🌱 Learning latest SwiftUI skills.
-
----
-
-## 📫 Get in Touch
-
-- LinkedIn: [linkedin.com/in/jonathandritchey](https://linkedin.com/in/jonathandritchey)
-- Email: jrtchy@gmail.com
-
----
-
-## ✨ Fun Facts
-
-- I used to port games to Nokia phones back in the day! 🤖🔥  
-- My first computer was a [Timex Sinclair 1000](https://en.wikipedia.org/wiki/Timex_Sinclair_1000) 🎮🎧  
-- Always down for a good hackathon or code jam 🧠💻  
+- 📱🧠 Educational Games
+- 🌈🎶 Musical Apps
 
 Thanks for stopping by — happy coding! 🚀
-
-
 ```
